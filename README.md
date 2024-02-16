@@ -10,7 +10,7 @@ Kalah is a traditional board game played between two players. Each player has si
 
 The Minimax algorithm is a decision-making algorithm commonly used in two-player games. It evaluates possible moves by recursively exploring the game tree, assuming that the opponent plays optimally. The algorithm alternates between maximizing the score for the AI player and minimizing the score for the opponent, ultimately selecting the move that leads to the best possible outcome for the AI player.
 
-For a detailed explanation of how the Minimax algorithm works and its implementation in the AI Mancala player, please refer to the [Minimax Algorithm Guide](link-to-your-minimax-guide-page) page.
+For a detailed explanation of how the Minimax algorithm works and its implementation in the AI Mancala player, please refer to the [Minimax Algorithm Guide](https://github.com/devikadwivedi/Minimax-Mancala-Player/blob/main/MinimaxGuide.md) page.
 
 ## Heuristics
 
